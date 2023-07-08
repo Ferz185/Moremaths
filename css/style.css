@@ -1,0 +1,13 @@
+/* estilo del encabezado*/
+header{
+    background-color:blueviolet;
+}
+body{
+    background-color: rgb(233, 208, 175);
+}
+/* estilo del formulario de contacto */
+.header {
+    color: black;
+    font-size: 27px;
+    padding: 0px;
+}
